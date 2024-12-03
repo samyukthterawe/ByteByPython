@@ -48,6 +48,9 @@
 - Use Nginx as a reverse proxy
 - Set up SSL for secure communication
 
+  ![image](https://github.com/user-attachments/assets/b2525697-4356-49dc-b4fa-3677d5fa513b)
+
+
 # Security Notes
 
 - Implement proper authentication and authorization
